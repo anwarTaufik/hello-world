@@ -1,2 +1,2 @@
 ini adalah teks pertama yang dibuat
-ini adalah teks setelah dilakukan edit dengan menambah teks
+baris ini dibuat setelah menghapus baris sebelumnya
